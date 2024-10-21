@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971732671943",
+    "project_id": "pegu-25764",
+    "storage_bucket": "pegu-25764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971732671943:android:e6d305cbcbeac63f688de2",
+        "android_client_info": {
+          "package_name": "com.duty.pequeguia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbz5tIwElrh1mUgTQKNJK5dqG1XcqS8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

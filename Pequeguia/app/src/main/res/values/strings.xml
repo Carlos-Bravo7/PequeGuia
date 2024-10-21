@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pequeguia</string>
+    <string name="Login_tittle">Bienvenida</string>
+    <string name="Login_subtittle">Por favor, introduce la información</string>
+    <string name="no_cuenta">¿No tienes cuenta?</string>
+    <string name="no_cuenta2">Regístrate aquí!</string>
+    <string name="si_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="si_cuenta2">Inicia sesión</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="registro">Registrarse</string>
+    <string name="registro_tittle">Registro</string>
+    <string name="registro_subtittle">Por favor, introduce la información</string>
+</resources>
